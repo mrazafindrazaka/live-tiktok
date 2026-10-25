@@ -1,0 +1,17 @@
+# dépendances et sorties de build
+node_modules/
+dist/
+*.log
+
+# fichiers locaux / secrets
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+
+# musique perso déposée dans le jeu (droits d'auteur : on ne la publie pas)
+front/public/music.*
+
+# fichiers temporaires
+*.tmp.*

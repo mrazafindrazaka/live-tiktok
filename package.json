@@ -1,0 +1,9 @@
+{
+  "name": "printer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "admin": "node run.js --ui=admin",
+    "front": "node run.js --ui=front"
+  }
+}
